@@ -1,0 +1,8 @@
+#boxContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+#formHolder {
+  margin-bottom: 2rem;
+}

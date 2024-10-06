@@ -1,0 +1,31 @@
+#boxForm {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  height: 20vh;
+  margin-top: 0.75rem;
+}
+
+input {
+  margin-bottom: 0.4rem;
+}
+
+button {
+  padding: 0.75rem;
+  border-radius: 10%;
+  background-color: steelblue;
+  color: white;
+  width: 5rem;
+  border: none;
+  margin-bottom: 2rem;
+}
+
+.buttonHolder {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
